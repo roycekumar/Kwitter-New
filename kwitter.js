@@ -20,7 +20,7 @@
         localStorage.setItem("Admin","No");
         window.location="passcode.html";
      }
-     else if(user_name=="mastercoder"){
+     else if(user_name=="Admin"){
         localStorage.setItem("user_name","Royce Kumar");
         localStorage.setItem("Admin","Yes");
         window.location="passcode.html";
